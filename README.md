@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rucha14thakare@gamil.com**
 
-- 📄 Know about my experiences [file:///C:/Users/rucha/portfolio/index.html](file:///C:/Users/rucha/portfolio/index.html)
+- 📄 Know about my experiences[ [file:///C:/Users/rucha/portfolio/index.html](file:///C:/Users/rucha/portfolio/index.html)](https://ruchathakaree.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rucha Thakare</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchathakaree&label=Profile%20views&color=0e75b6&style=flat" alt="ruchathakaree" /> </p>
 
-- 🔭 I’m currently working on **Amazon Sales Report Analysis**
+- 🔭 I’m currently working in **Accenture**
 
-- 🌱 I’m currently learning **PowerBI**
+- 🌱 I’m currently learning **CRM Tool's **
 
 - 👯 I’m looking to collaborate on **Data Analysis Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ruchathakaree](https://github.com/ruchathakaree)
 
-- 💬 Ask me about **SQL, Python, Excel**
+- 💬 Ask me about **SQL, Python, PowerBi, Snowflaks, ETL, AWS, ADF  **
 
 - 📫 How to reach me **ruchathakare1404@gamil.com**
 

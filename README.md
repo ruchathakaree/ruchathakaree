@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **SQL, Python, Excel**
 
-- 📫 How to reach me **rucha14thakare@gamil.com**
+- 📫 How to reach me **ruchathakare1404@gamil.com**
 
 - 📄 Know about my experiences[ [file:///C:/Users/rucha/portfolio/index.html](file:///C:/Users/rucha/portfolio/index.html)](https://ruchathakaree.github.io/portfolio/)
 

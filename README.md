@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **Accenture**
 
-- 🌱 I’m currently learning **CRM Tool's **
+- 🌱 I’m currently learning **Cloud Tool's **
 
 - 👯 I’m looking to collaborate on **Data Analysis Project**
 

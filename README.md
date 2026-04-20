@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working in **Accenture**
 
-- 🌱 I’m currently learning **Cloud Tool's **
+- 🌱 I’m currently learning **Cloud Tool's**
 
 - 👯 I’m looking to collaborate on **Data Analysis Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ruchathakaree](https://github.com/ruchathakaree)
 
-- 💬 Ask me about **SQL, Python, PowerBi, Snowflaks, ETL, AWS, ADF  **
+- 💬 Ask me about **SQL, Python, PowerBi, Snowflaks, ETL, AWS, ADF**
 
 - 📫 How to reach me **ruchathakare1404@gamil.com**
 
